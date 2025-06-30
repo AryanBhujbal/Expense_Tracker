@@ -26,9 +26,7 @@ class ExpenseManager:
 
     def trend(self, monthly: bool = False) -> Dict[str, float]:
         if not monthly:
-            # simple date-sorted listing
             return {e.date: e.amount for e in sorted(self.expenses, key=lambda x: x.date)}
-        # month key = YYYY-MM
         month_totals: Dict[str, float] = {}
         for e in self.expenses:
             m = e.date[:7]
