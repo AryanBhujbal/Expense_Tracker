@@ -1,0 +1,49 @@
+ <!doctype html>
+ <html lang="en">
+ <head>
+   <meta charset="utf-8">
+   <title>All Expenses</title>
+   <style>
+     table, th, td { border: 1px solid #333; border-collapse: collapse; padding: 4px; }
+     th { cursor: pointer; }
+     form.inline { display: inline; margin:0; padding:0; }
+     nav { margin-bottom: 1em; }
+   </style>
+ </head>
+ <body>
+   <nav>
+     <a href="/" style="margin-right: 1em;">Home</a>
+     <form method="post" action="/expenses/add" style="display:inline;">
+       <input type="date" name="date" required size="10">
+       <input type="text" name="category" placeholder="Category" required>
+       <input type="number" step="0.01" name="amount" placeholder="Amount" required>
+       <input type="text" name="note" placeholder="Note">
+       <button type="submit">Add</button>
+     </form>
+   </nav>
+   <h1>All Expenses</h1>
+   <table>
+     <tr>
+       <th><a href="?sort=date&dir={{ toggle_dir if sort_by=='date' else 'asc' }}">Date{% if sort_by=='date' %} {% if direction=='asc' %}↑{% else %}↓{% endif %}{% endif %}</a></th>
+       <th><a href="?sort=category&dir={{ toggle_dir if sort_by=='category' else 'asc' }}">Category{% if sort_by=='category' %} {% if direction=='asc' %}↑{% else %}↓{% endif %}{% endif %}</a></th>
+       <th><a href="?sort=amount&dir={{ toggle_dir if sort_by=='amount' else 'asc' }}">Amount{% if sort_by=='amount' %} {% if direction=='asc' %}↑{% else %}↓{% endif %}{% endif %}</a></th>
+       <th>Note</th>
+       <th>Actions</th>
+     </tr>
+     {% for idx, e in expenses %}
+     <tr>
+       <td>{{ e.date }}</td>
+       <td>{{ e.category }}</td>
+       <td>${{ '%.2f'|format(e.amount) }}</td>
+       <td>{{ e.note }}</td>
+       <td>
+         <a href="/expenses/edit/{{ idx }}">Edit</a>
+         <form class="inline" method="post" action="/expenses/delete/{{ idx }}">
+           <button type="submit">Delete</button>
+         </form>
+       </td>
+     </tr>
+     {% endfor %}
+   </table>
+ </body>
+ </html>

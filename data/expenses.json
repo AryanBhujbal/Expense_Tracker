@@ -1,0 +1,3002 @@
+[
+  {
+    "date": "2023-12-28",
+    "category": "Entertainment",
+    "amount": 42.39,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-02-13",
+    "category": "Entertainment",
+    "amount": 119.7,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-07-25",
+    "category": "Transportation",
+    "amount": 229.09,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-05-26",
+    "category": "Transportation",
+    "amount": 610.25,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-08-02",
+    "category": "Dining",
+    "amount": 302.39,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-06-17",
+    "category": "Education",
+    "amount": 528.37,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-05-19",
+    "category": "Clothing",
+    "amount": 440.65,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-02-21",
+    "category": "Clothing",
+    "amount": 157.21,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-04-20",
+    "category": "Education",
+    "amount": 47.88,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-08-12",
+    "category": "Transportation",
+    "amount": 864.1,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-05-20",
+    "category": "Education",
+    "amount": 574.37,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-04-26",
+    "category": "Clothing",
+    "amount": 194.62,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-01-27",
+    "category": "Utilities",
+    "amount": 89.45,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-01-30",
+    "category": "Education",
+    "amount": 722.75,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-07-27",
+    "category": "Entertainment",
+    "amount": 703.75,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-03-05",
+    "category": "Clothing",
+    "amount": 539.78,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-04-28",
+    "category": "Transportation",
+    "amount": 700.14,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-05-28",
+    "category": "Education",
+    "amount": 141.45,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-06-10",
+    "category": "Utilities",
+    "amount": 167.65,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-03-01",
+    "category": "Entertainment",
+    "amount": 22.93,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-12-05",
+    "category": "Misc.",
+    "amount": 50.06,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-02-19",
+    "category": "Entertainment",
+    "amount": 982.68,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-07-10",
+    "category": "Utilities",
+    "amount": 300.87,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-10-13",
+    "category": "Healthcare",
+    "amount": 139.39,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-09-15",
+    "category": "Dining",
+    "amount": 428.37,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-07-20",
+    "category": "Entertainment",
+    "amount": 141.43,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-09-27",
+    "category": "Transportation",
+    "amount": 453.34,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-05-05",
+    "category": "Misc.",
+    "amount": 899.76,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-06-23",
+    "category": "Groceries",
+    "amount": 769.8,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-06-16",
+    "category": "Groceries",
+    "amount": 700.3,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-06-20",
+    "category": "Misc.",
+    "amount": 171.92,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-02-23",
+    "category": "Transportation",
+    "amount": 778.29,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-06-08",
+    "category": "Education",
+    "amount": 500.99,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-01-19",
+    "category": "Entertainment",
+    "amount": 766.48,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-02-22",
+    "category": "Groceries",
+    "amount": 774.55,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-04-20",
+    "category": "Misc.",
+    "amount": 942.06,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-06-01",
+    "category": "Dining",
+    "amount": 337.05,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-07-08",
+    "category": "Healthcare",
+    "amount": 945.31,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-03-02",
+    "category": "Education",
+    "amount": 674.81,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-10-13",
+    "category": "Utilities",
+    "amount": 590.63,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-01-05",
+    "category": "Dining",
+    "amount": 553.32,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-06-27",
+    "category": "Utilities",
+    "amount": 91.37,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-06-20",
+    "category": "Clothing",
+    "amount": 384.03,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-01-11",
+    "category": "Clothing",
+    "amount": 353.95,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-09-02",
+    "category": "Utilities",
+    "amount": 963.46,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-04-08",
+    "category": "Dining",
+    "amount": 598.37,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-09-05",
+    "category": "Transportation",
+    "amount": 463.89,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-07-23",
+    "category": "Utilities",
+    "amount": 780.77,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-08-21",
+    "category": "Entertainment",
+    "amount": 81.11,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-05-03",
+    "category": "Entertainment",
+    "amount": 510.05,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-05-22",
+    "category": "Utilities",
+    "amount": 659.82,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-01-22",
+    "category": "Groceries",
+    "amount": 172.13,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-12-26",
+    "category": "Groceries",
+    "amount": 746.63,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-08-03",
+    "category": "Education",
+    "amount": 976.24,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-04-07",
+    "category": "Groceries",
+    "amount": 937.67,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-12-02",
+    "category": "Education",
+    "amount": 744.77,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-07-12",
+    "category": "Groceries",
+    "amount": 422.09,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-06-15",
+    "category": "Clothing",
+    "amount": 794.66,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-01-03",
+    "category": "Clothing",
+    "amount": 882.65,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-10-25",
+    "category": "Groceries",
+    "amount": 267.29,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-08-18",
+    "category": "Dining",
+    "amount": 965.19,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-04-02",
+    "category": "Clothing",
+    "amount": 310.35,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-02-04",
+    "category": "Misc.",
+    "amount": 509.38,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-05-16",
+    "category": "Misc.",
+    "amount": 4.98,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-10-28",
+    "category": "Transportation",
+    "amount": 885.0,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-04-05",
+    "category": "Transportation",
+    "amount": 499.83,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-03-11",
+    "category": "Dining",
+    "amount": 708.58,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-03-21",
+    "category": "Transportation",
+    "amount": 454.74,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-05-03",
+    "category": "Dining",
+    "amount": 479.27,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-10-28",
+    "category": "Transportation",
+    "amount": 536.27,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-03-11",
+    "category": "Entertainment",
+    "amount": 185.56,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-01-17",
+    "category": "Education",
+    "amount": 244.11,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-03-11",
+    "category": "Entertainment",
+    "amount": 736.24,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-01-26",
+    "category": "Clothing",
+    "amount": 849.33,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-08-05",
+    "category": "Clothing",
+    "amount": 667.62,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-05-02",
+    "category": "Entertainment",
+    "amount": 46.53,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-06-28",
+    "category": "Utilities",
+    "amount": 79.52,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-06-15",
+    "category": "Healthcare",
+    "amount": 515.07,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-12-30",
+    "category": "Misc.",
+    "amount": 696.36,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-02-15",
+    "category": "Utilities",
+    "amount": 992.83,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-03-16",
+    "category": "Education",
+    "amount": 617.34,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-02-22",
+    "category": "Clothing",
+    "amount": 518.36,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-05-19",
+    "category": "Healthcare",
+    "amount": 757.18,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-10-08",
+    "category": "Entertainment",
+    "amount": 651.89,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-10-25",
+    "category": "Transportation",
+    "amount": 784.67,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-04-13",
+    "category": "Entertainment",
+    "amount": 195.07,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-09-20",
+    "category": "Clothing",
+    "amount": 454.12,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-07-11",
+    "category": "Transportation",
+    "amount": 358.13,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-04-04",
+    "category": "Misc.",
+    "amount": 581.79,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-05-06",
+    "category": "Transportation",
+    "amount": 320.11,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-08-23",
+    "category": "Healthcare",
+    "amount": 179.15,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-04-19",
+    "category": "Clothing",
+    "amount": 459.25,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-02-15",
+    "category": "Transportation",
+    "amount": 888.04,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-09-07",
+    "category": "Groceries",
+    "amount": 97.68,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-11-07",
+    "category": "Clothing",
+    "amount": 660.35,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-04-16",
+    "category": "Misc.",
+    "amount": 247.8,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-09-02",
+    "category": "Clothing",
+    "amount": 686.6,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-08-30",
+    "category": "Entertainment",
+    "amount": 46.0,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-09-10",
+    "category": "Education",
+    "amount": 827.23,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-07-31",
+    "category": "Healthcare",
+    "amount": 156.89,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-02-10",
+    "category": "Clothing",
+    "amount": 682.79,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-08-08",
+    "category": "Entertainment",
+    "amount": 516.07,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-06-25",
+    "category": "Misc.",
+    "amount": 808.6,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-02-24",
+    "category": "Clothing",
+    "amount": 70.49,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-04-30",
+    "category": "Transportation",
+    "amount": 304.04,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-03-26",
+    "category": "Transportation",
+    "amount": 507.13,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-12-18",
+    "category": "Dining",
+    "amount": 122.74,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-05-21",
+    "category": "Groceries",
+    "amount": 177.32,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-06-30",
+    "category": "Clothing",
+    "amount": 970.88,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-01-03",
+    "category": "Education",
+    "amount": 111.71,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-08-27",
+    "category": "Clothing",
+    "amount": 492.07,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-06-21",
+    "category": "Dining",
+    "amount": 1.19,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-04-13",
+    "category": "Healthcare",
+    "amount": 481.04,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-05-17",
+    "category": "Utilities",
+    "amount": 459.67,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-06-30",
+    "category": "Entertainment",
+    "amount": 875.83,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-03-21",
+    "category": "Misc.",
+    "amount": 929.31,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-09-28",
+    "category": "Transportation",
+    "amount": 393.27,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-12-31",
+    "category": "Misc.",
+    "amount": 903.33,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-12-13",
+    "category": "Clothing",
+    "amount": 146.49,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-01-19",
+    "category": "Healthcare",
+    "amount": 50.9,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-04-23",
+    "category": "Healthcare",
+    "amount": 188.3,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-09-18",
+    "category": "Entertainment",
+    "amount": 684.39,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-06-23",
+    "category": "Transportation",
+    "amount": 761.44,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-04-19",
+    "category": "Clothing",
+    "amount": 801.18,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-04-13",
+    "category": "Dining",
+    "amount": 873.25,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-12-04",
+    "category": "Dining",
+    "amount": 558.96,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-02-12",
+    "category": "Entertainment",
+    "amount": 593.91,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-06-28",
+    "category": "Clothing",
+    "amount": 368.38,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-01-29",
+    "category": "Misc.",
+    "amount": 302.42,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-06-07",
+    "category": "Healthcare",
+    "amount": 859.7,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-08-11",
+    "category": "Misc.",
+    "amount": 23.22,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-04-08",
+    "category": "Utilities",
+    "amount": 908.2,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-06-01",
+    "category": "Misc.",
+    "amount": 14.3,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-12-31",
+    "category": "Misc.",
+    "amount": 672.63,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-11-16",
+    "category": "Dining",
+    "amount": 511.85,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-01-14",
+    "category": "Dining",
+    "amount": 814.07,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-08-29",
+    "category": "Healthcare",
+    "amount": 3.85,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-12-27",
+    "category": "Misc.",
+    "amount": 306.99,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-01-16",
+    "category": "Groceries",
+    "amount": 634.44,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-05-07",
+    "category": "Transportation",
+    "amount": 40.34,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-02-27",
+    "category": "Misc.",
+    "amount": 157.8,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-09-21",
+    "category": "Dining",
+    "amount": 542.85,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-09-21",
+    "category": "Misc.",
+    "amount": 864.02,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-06-05",
+    "category": "Misc.",
+    "amount": 711.86,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-01-30",
+    "category": "Entertainment",
+    "amount": 132.59,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-09-04",
+    "category": "Healthcare",
+    "amount": 125.0,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-06-26",
+    "category": "Groceries",
+    "amount": 890.18,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-12-25",
+    "category": "Healthcare",
+    "amount": 674.39,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-09-28",
+    "category": "Transportation",
+    "amount": 986.91,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-09-18",
+    "category": "Healthcare",
+    "amount": 135.56,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-06-02",
+    "category": "Dining",
+    "amount": 923.46,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-02-08",
+    "category": "Transportation",
+    "amount": 973.63,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-01-10",
+    "category": "Dining",
+    "amount": 699.1,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-10-31",
+    "category": "Misc.",
+    "amount": 579.83,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-09-21",
+    "category": "Misc.",
+    "amount": 18.91,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-06-04",
+    "category": "Dining",
+    "amount": 370.56,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-10-18",
+    "category": "Groceries",
+    "amount": 402.91,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-06-09",
+    "category": "Groceries",
+    "amount": 946.97,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-06-19",
+    "category": "Education",
+    "amount": 611.58,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-09-04",
+    "category": "Misc.",
+    "amount": 129.93,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-03-10",
+    "category": "Healthcare",
+    "amount": 892.37,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-03-30",
+    "category": "Groceries",
+    "amount": 271.71,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-10-09",
+    "category": "Healthcare",
+    "amount": 134.26,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-08-26",
+    "category": "Groceries",
+    "amount": 177.61,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-06-06",
+    "category": "Utilities",
+    "amount": 852.91,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-05-18",
+    "category": "Entertainment",
+    "amount": 289.64,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-02-28",
+    "category": "Education",
+    "amount": 781.68,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-01-03",
+    "category": "Education",
+    "amount": 844.91,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-04-07",
+    "category": "Utilities",
+    "amount": 649.2,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-01-24",
+    "category": "Transportation",
+    "amount": 721.57,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-03-26",
+    "category": "Education",
+    "amount": 240.28,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-01-12",
+    "category": "Transportation",
+    "amount": 645.82,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-04-28",
+    "category": "Clothing",
+    "amount": 910.05,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-04-07",
+    "category": "Education",
+    "amount": 417.73,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-04-21",
+    "category": "Misc.",
+    "amount": 974.5,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-04-06",
+    "category": "Misc.",
+    "amount": 385.14,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-03-19",
+    "category": "Misc.",
+    "amount": 39.59,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-03-06",
+    "category": "Entertainment",
+    "amount": 611.03,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-11-07",
+    "category": "Groceries",
+    "amount": 897.54,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-06-21",
+    "category": "Education",
+    "amount": 860.47,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-04-09",
+    "category": "Healthcare",
+    "amount": 545.21,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-10-14",
+    "category": "Education",
+    "amount": 199.97,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-06-08",
+    "category": "Misc.",
+    "amount": 873.08,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-04-07",
+    "category": "Transportation",
+    "amount": 329.54,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-12-22",
+    "category": "Dining",
+    "amount": 941.91,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-11-14",
+    "category": "Healthcare",
+    "amount": 204.85,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-11-17",
+    "category": "Dining",
+    "amount": 408.46,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-05-16",
+    "category": "Entertainment",
+    "amount": 905.13,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-01-26",
+    "category": "Groceries",
+    "amount": 218.9,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-11-02",
+    "category": "Dining",
+    "amount": 38.58,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-02-20",
+    "category": "Utilities",
+    "amount": 12.45,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-07-31",
+    "category": "Education",
+    "amount": 365.91,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-12-26",
+    "category": "Utilities",
+    "amount": 485.97,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-05-21",
+    "category": "Groceries",
+    "amount": 525.07,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-08-16",
+    "category": "Entertainment",
+    "amount": 64.25,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-02-14",
+    "category": "Clothing",
+    "amount": 691.42,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-09-02",
+    "category": "Healthcare",
+    "amount": 463.42,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-04-08",
+    "category": "Clothing",
+    "amount": 25.19,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-08-03",
+    "category": "Utilities",
+    "amount": 789.7,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-01-02",
+    "category": "Misc.",
+    "amount": 555.97,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-10-13",
+    "category": "Misc.",
+    "amount": 589.94,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-05-31",
+    "category": "Utilities",
+    "amount": 986.1,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-04-23",
+    "category": "Education",
+    "amount": 246.25,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-01-17",
+    "category": "Dining",
+    "amount": 8.65,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-12-19",
+    "category": "Education",
+    "amount": 571.98,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-02-10",
+    "category": "Entertainment",
+    "amount": 804.11,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-10-20",
+    "category": "Entertainment",
+    "amount": 508.54,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-05-31",
+    "category": "Groceries",
+    "amount": 949.02,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-04-08",
+    "category": "Entertainment",
+    "amount": 847.18,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-03-17",
+    "category": "Groceries",
+    "amount": 526.59,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-08-26",
+    "category": "Groceries",
+    "amount": 10.62,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-01-27",
+    "category": "Entertainment",
+    "amount": 137.18,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-01-09",
+    "category": "Utilities",
+    "amount": 279.04,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-10-14",
+    "category": "Education",
+    "amount": 396.37,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-08-19",
+    "category": "Clothing",
+    "amount": 274.19,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-04-07",
+    "category": "Healthcare",
+    "amount": 966.62,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-03-26",
+    "category": "Transportation",
+    "amount": 515.85,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-10-05",
+    "category": "Misc.",
+    "amount": 206.37,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-10-23",
+    "category": "Misc.",
+    "amount": 861.99,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-01-30",
+    "category": "Healthcare",
+    "amount": 8.9,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-09-07",
+    "category": "Dining",
+    "amount": 496.22,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-04-16",
+    "category": "Clothing",
+    "amount": 917.84,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-06-20",
+    "category": "Dining",
+    "amount": 894.07,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-08-05",
+    "category": "Groceries",
+    "amount": 423.86,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-06-07",
+    "category": "Clothing",
+    "amount": 663.88,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-08-18",
+    "category": "Groceries",
+    "amount": 781.89,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-02-12",
+    "category": "Groceries",
+    "amount": 201.88,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-01-13",
+    "category": "Dining",
+    "amount": 28.86,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-07-30",
+    "category": "Utilities",
+    "amount": 884.41,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-11-18",
+    "category": "Clothing",
+    "amount": 114.33,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-04-01",
+    "category": "Utilities",
+    "amount": 590.35,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-12-07",
+    "category": "Education",
+    "amount": 475.65,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-12-03",
+    "category": "Dining",
+    "amount": 659.62,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-11-26",
+    "category": "Clothing",
+    "amount": 961.92,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-07-08",
+    "category": "Utilities",
+    "amount": 447.3,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-02-04",
+    "category": "Entertainment",
+    "amount": 741.7,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-03-12",
+    "category": "Clothing",
+    "amount": 354.85,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-03-30",
+    "category": "Clothing",
+    "amount": 953.05,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-03-25",
+    "category": "Education",
+    "amount": 61.32,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-08-04",
+    "category": "Clothing",
+    "amount": 566.71,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-04-17",
+    "category": "Utilities",
+    "amount": 652.46,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-06-06",
+    "category": "Education",
+    "amount": 997.58,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-09-22",
+    "category": "Education",
+    "amount": 720.83,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-05-27",
+    "category": "Dining",
+    "amount": 210.33,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-04-13",
+    "category": "Education",
+    "amount": 739.64,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-04-29",
+    "category": "Dining",
+    "amount": 96.31,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-02-21",
+    "category": "Misc.",
+    "amount": 939.95,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-04-07",
+    "category": "Utilities",
+    "amount": 323.71,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-03-15",
+    "category": "Misc.",
+    "amount": 9.47,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-02-21",
+    "category": "Entertainment",
+    "amount": 429.51,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-02-21",
+    "category": "Utilities",
+    "amount": 568.77,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-02-19",
+    "category": "Entertainment",
+    "amount": 4.31,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-08-24",
+    "category": "Education",
+    "amount": 169.75,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-09-28",
+    "category": "Utilities",
+    "amount": 712.28,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-05-20",
+    "category": "Clothing",
+    "amount": 792.0,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-04-10",
+    "category": "Transportation",
+    "amount": 616.62,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-05-24",
+    "category": "Misc.",
+    "amount": 712.55,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-02-25",
+    "category": "Education",
+    "amount": 707.37,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-12-17",
+    "category": "Clothing",
+    "amount": 35.94,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-01-14",
+    "category": "Healthcare",
+    "amount": 518.18,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-01-17",
+    "category": "Education",
+    "amount": 256.13,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-10-21",
+    "category": "Utilities",
+    "amount": 782.63,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-03-08",
+    "category": "Misc.",
+    "amount": 747.9,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-10-05",
+    "category": "Misc.",
+    "amount": 124.7,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-07-23",
+    "category": "Entertainment",
+    "amount": 495.41,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-05-25",
+    "category": "Misc.",
+    "amount": 984.97,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-09-24",
+    "category": "Utilities",
+    "amount": 733.33,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-01-11",
+    "category": "Entertainment",
+    "amount": 409.59,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-05-03",
+    "category": "Education",
+    "amount": 371.45,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-09-10",
+    "category": "Misc.",
+    "amount": 907.5,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-01-15",
+    "category": "Dining",
+    "amount": 675.28,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-02-20",
+    "category": "Dining",
+    "amount": 992.02,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-03-27",
+    "category": "Healthcare",
+    "amount": 764.78,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-07-29",
+    "category": "Utilities",
+    "amount": 253.64,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-07-08",
+    "category": "Clothing",
+    "amount": 276.64,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-10-17",
+    "category": "Utilities",
+    "amount": 574.98,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-01-28",
+    "category": "Clothing",
+    "amount": 9.08,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-04-25",
+    "category": "Transportation",
+    "amount": 185.5,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-11-22",
+    "category": "Groceries",
+    "amount": 81.55,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-10-30",
+    "category": "Clothing",
+    "amount": 463.37,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-03-18",
+    "category": "Dining",
+    "amount": 911.54,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-06-09",
+    "category": "Clothing",
+    "amount": 183.82,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-09-11",
+    "category": "Transportation",
+    "amount": 961.7,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-08-30",
+    "category": "Misc.",
+    "amount": 903.15,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-02-19",
+    "category": "Transportation",
+    "amount": 142.99,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-01-08",
+    "category": "Groceries",
+    "amount": 978.68,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-05-26",
+    "category": "Dining",
+    "amount": 103.6,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-06-30",
+    "category": "Dining",
+    "amount": 33.2,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-07-14",
+    "category": "Groceries",
+    "amount": 414.83,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-01-23",
+    "category": "Misc.",
+    "amount": 806.04,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-08-09",
+    "category": "Transportation",
+    "amount": 251.77,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-10-22",
+    "category": "Transportation",
+    "amount": 928.21,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-03-24",
+    "category": "Clothing",
+    "amount": 927.02,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-02-20",
+    "category": "Clothing",
+    "amount": 514.48,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-10-22",
+    "category": "Utilities",
+    "amount": 91.78,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-04-12",
+    "category": "Entertainment",
+    "amount": 865.84,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-12-27",
+    "category": "Transportation",
+    "amount": 481.4,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-04-02",
+    "category": "Entertainment",
+    "amount": 563.97,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-12-21",
+    "category": "Transportation",
+    "amount": 408.85,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-06-28",
+    "category": "Clothing",
+    "amount": 545.47,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-06-21",
+    "category": "Clothing",
+    "amount": 209.88,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-05-09",
+    "category": "Dining",
+    "amount": 565.34,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-12-26",
+    "category": "Entertainment",
+    "amount": 919.05,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-01-24",
+    "category": "Healthcare",
+    "amount": 958.94,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-01-12",
+    "category": "Entertainment",
+    "amount": 666.48,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-11-20",
+    "category": "Utilities",
+    "amount": 377.94,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-10-23",
+    "category": "Groceries",
+    "amount": 835.15,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-03-21",
+    "category": "Dining",
+    "amount": 424.6,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-01-30",
+    "category": "Groceries",
+    "amount": 71.07,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-02-01",
+    "category": "Dining",
+    "amount": 540.48,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-01-16",
+    "category": "Healthcare",
+    "amount": 618.23,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-05-19",
+    "category": "Misc.",
+    "amount": 511.14,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-11-18",
+    "category": "Education",
+    "amount": 139.51,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-05-22",
+    "category": "Clothing",
+    "amount": 149.81,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-04-05",
+    "category": "Misc.",
+    "amount": 730.94,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-07-17",
+    "category": "Education",
+    "amount": 818.13,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-05-31",
+    "category": "Entertainment",
+    "amount": 652.47,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-02-19",
+    "category": "Groceries",
+    "amount": 777.7,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-06-03",
+    "category": "Transportation",
+    "amount": 459.82,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-11-17",
+    "category": "Groceries",
+    "amount": 720.6,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-11-18",
+    "category": "Transportation",
+    "amount": 796.18,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-11-12",
+    "category": "Entertainment",
+    "amount": 557.95,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-02-28",
+    "category": "Transportation",
+    "amount": 896.3,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-09-27",
+    "category": "Transportation",
+    "amount": 549.88,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-01-01",
+    "category": "Clothing",
+    "amount": 661.31,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-10-14",
+    "category": "Groceries",
+    "amount": 464.38,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-04-03",
+    "category": "Transportation",
+    "amount": 11.33,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-06-14",
+    "category": "Entertainment",
+    "amount": 248.72,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-08-31",
+    "category": "Dining",
+    "amount": 19.69,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-07-22",
+    "category": "Healthcare",
+    "amount": 992.84,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-09-16",
+    "category": "Utilities",
+    "amount": 262.61,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-03-10",
+    "category": "Transportation",
+    "amount": 499.34,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-03-10",
+    "category": "Healthcare",
+    "amount": 738.7,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-02-21",
+    "category": "Groceries",
+    "amount": 302.91,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-12-13",
+    "category": "Clothing",
+    "amount": 839.05,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-11-17",
+    "category": "Education",
+    "amount": 247.31,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-12-31",
+    "category": "Entertainment",
+    "amount": 18.13,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-12-29",
+    "category": "Education",
+    "amount": 522.9,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-01-13",
+    "category": "Clothing",
+    "amount": 906.92,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-03-24",
+    "category": "Education",
+    "amount": 755.89,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-12-25",
+    "category": "Education",
+    "amount": 498.49,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-08-20",
+    "category": "Dining",
+    "amount": 566.32,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-01-24",
+    "category": "Entertainment",
+    "amount": 219.47,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-05-23",
+    "category": "Utilities",
+    "amount": 51.96,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-12-03",
+    "category": "Misc.",
+    "amount": 417.57,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-12-25",
+    "category": "Clothing",
+    "amount": 978.22,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-01-14",
+    "category": "Education",
+    "amount": 575.14,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-04-23",
+    "category": "Clothing",
+    "amount": 731.61,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-06-28",
+    "category": "Misc.",
+    "amount": 982.72,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-11-30",
+    "category": "Misc.",
+    "amount": 743.49,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-05-22",
+    "category": "Clothing",
+    "amount": 562.16,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-07-01",
+    "category": "Education",
+    "amount": 191.25,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-01-18",
+    "category": "Misc.",
+    "amount": 447.73,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-07-20",
+    "category": "Utilities",
+    "amount": 880.56,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-07-06",
+    "category": "Groceries",
+    "amount": 310.51,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-12-06",
+    "category": "Healthcare",
+    "amount": 967.45,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-11-01",
+    "category": "Education",
+    "amount": 721.37,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-02-12",
+    "category": "Healthcare",
+    "amount": 893.26,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-12-14",
+    "category": "Transportation",
+    "amount": 300.8,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-06-05",
+    "category": "Healthcare",
+    "amount": 390.83,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-12-15",
+    "category": "Transportation",
+    "amount": 830.06,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-05-25",
+    "category": "Education",
+    "amount": 433.71,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-07-20",
+    "category": "Transportation",
+    "amount": 249.42,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-12-01",
+    "category": "Clothing",
+    "amount": 237.52,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-05-01",
+    "category": "Education",
+    "amount": 37.78,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-10-01",
+    "category": "Transportation",
+    "amount": 863.08,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-06-09",
+    "category": "Transportation",
+    "amount": 72.15,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-01-14",
+    "category": "Utilities",
+    "amount": 33.17,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-11-08",
+    "category": "Misc.",
+    "amount": 771.47,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-06-18",
+    "category": "Misc.",
+    "amount": 318.01,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-06-15",
+    "category": "Transportation",
+    "amount": 857.24,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-08-20",
+    "category": "Clothing",
+    "amount": 334.94,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-06-26",
+    "category": "Clothing",
+    "amount": 415.59,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-08-23",
+    "category": "Entertainment",
+    "amount": 335.16,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-08-04",
+    "category": "Utilities",
+    "amount": 853.59,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-10-22",
+    "category": "Groceries",
+    "amount": 598.85,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-02-08",
+    "category": "Education",
+    "amount": 212.69,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-04-10",
+    "category": "Misc.",
+    "amount": 758.33,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-09-16",
+    "category": "Transportation",
+    "amount": 747.3,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-01-30",
+    "category": "Clothing",
+    "amount": 246.33,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-01-14",
+    "category": "Utilities",
+    "amount": 129.93,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-12-26",
+    "category": "Dining",
+    "amount": 183.99,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-10-12",
+    "category": "Healthcare",
+    "amount": 669.8,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-03-14",
+    "category": "Dining",
+    "amount": 474.15,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-09-11",
+    "category": "Groceries",
+    "amount": 329.97,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-02-13",
+    "category": "Education",
+    "amount": 275.01,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-05-26",
+    "category": "Dining",
+    "amount": 608.18,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-08-08",
+    "category": "Groceries",
+    "amount": 936.61,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-02-10",
+    "category": "Clothing",
+    "amount": 193.53,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-06-22",
+    "category": "Misc.",
+    "amount": 980.25,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-01-21",
+    "category": "Healthcare",
+    "amount": 237.8,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-10-19",
+    "category": "Clothing",
+    "amount": 749.75,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-04-09",
+    "category": "Entertainment",
+    "amount": 604.55,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-03-05",
+    "category": "Education",
+    "amount": 972.02,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-05-05",
+    "category": "Dining",
+    "amount": 658.27,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-07-13",
+    "category": "Education",
+    "amount": 471.2,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-05-07",
+    "category": "Utilities",
+    "amount": 645.36,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-12-07",
+    "category": "Entertainment",
+    "amount": 156.13,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-07-07",
+    "category": "Entertainment",
+    "amount": 14.92,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-10-01",
+    "category": "Dining",
+    "amount": 472.41,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-07-08",
+    "category": "Utilities",
+    "amount": 405.08,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-07-26",
+    "category": "Education",
+    "amount": 760.93,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-07-08",
+    "category": "Misc.",
+    "amount": 430.86,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-08-05",
+    "category": "Utilities",
+    "amount": 582.65,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-05-11",
+    "category": "Groceries",
+    "amount": 278.31,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-01-14",
+    "category": "Dining",
+    "amount": 191.49,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-11-13",
+    "category": "Healthcare",
+    "amount": 827.94,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-05-09",
+    "category": "Healthcare",
+    "amount": 935.62,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-08-01",
+    "category": "Entertainment",
+    "amount": 104.23,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-01-31",
+    "category": "Education",
+    "amount": 250.04,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-10-13",
+    "category": "Education",
+    "amount": 974.25,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-02-22",
+    "category": "Education",
+    "amount": 306.6,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-02-13",
+    "category": "Transportation",
+    "amount": 576.61,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-05-03",
+    "category": "Transportation",
+    "amount": 53.88,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-02-19",
+    "category": "Misc.",
+    "amount": 164.86,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-05-13",
+    "category": "Clothing",
+    "amount": 179.44,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-07-02",
+    "category": "Clothing",
+    "amount": 51.39,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-11-03",
+    "category": "Clothing",
+    "amount": 189.26,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-11-18",
+    "category": "Healthcare",
+    "amount": 374.06,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-01-07",
+    "category": "Dining",
+    "amount": 366.49,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-07-24",
+    "category": "Entertainment",
+    "amount": 820.63,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-08-14",
+    "category": "Utilities",
+    "amount": 952.28,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-11-13",
+    "category": "Misc.",
+    "amount": 516.74,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-11-25",
+    "category": "Clothing",
+    "amount": 929.57,
+    "note": "Client expense"
+  },
+  {
+    "date": "2025-06-07",
+    "category": "Education",
+    "amount": 576.83,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-04-20",
+    "category": "Dining",
+    "amount": 253.39,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-09-22",
+    "category": "Groceries",
+    "amount": 601.79,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-07-31",
+    "category": "Healthcare",
+    "amount": 347.25,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-04-01",
+    "category": "Entertainment",
+    "amount": 499.3,
+    "note": "Unknown"
+  },
+  {
+    "date": "2023-11-03",
+    "category": "Dining",
+    "amount": 174.48,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-06-08",
+    "category": "Utilities",
+    "amount": 230.36,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-05-29",
+    "category": "Entertainment",
+    "amount": 695.18,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-02-27",
+    "category": "Misc.",
+    "amount": 438.03,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-01-01",
+    "category": "Utilities",
+    "amount": 478.48,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-01-26",
+    "category": "Transportation",
+    "amount": 398.63,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2023-02-03",
+    "category": "Groceries",
+    "amount": 186.37,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-07-22",
+    "category": "Transportation",
+    "amount": 383.47,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-03-12",
+    "category": "Utilities",
+    "amount": 297.75,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-12-03",
+    "category": "Entertainment",
+    "amount": 766.86,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-10-22",
+    "category": "Healthcare",
+    "amount": 427.88,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-09-07",
+    "category": "Dining",
+    "amount": 593.9,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-03-14",
+    "category": "Clothing",
+    "amount": 996.76,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-05-24",
+    "category": "Entertainment",
+    "amount": 346.52,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-05-13",
+    "category": "Entertainment",
+    "amount": 999.49,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-12-26",
+    "category": "Entertainment",
+    "amount": 815.14,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-08-24",
+    "category": "Education",
+    "amount": 618.21,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-03-06",
+    "category": "Education",
+    "amount": 901.35,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-04-03",
+    "category": "Groceries",
+    "amount": 546.75,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-06-26",
+    "category": "Misc.",
+    "amount": 841.0,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-07-13",
+    "category": "Entertainment",
+    "amount": 95.7,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-04-24",
+    "category": "Dining",
+    "amount": 448.89,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-09-05",
+    "category": "Groceries",
+    "amount": 247.8,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-06-19",
+    "category": "Dining",
+    "amount": 21.09,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-06-22",
+    "category": "Dining",
+    "amount": 768.0,
+    "note": "Client expense"
+  },
+  {
+    "date": "2024-06-04",
+    "category": "Dining",
+    "amount": 758.11,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-01-08",
+    "category": "Healthcare",
+    "amount": 715.98,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-12-26",
+    "category": "Clothing",
+    "amount": 847.47,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-12-13",
+    "category": "Groceries",
+    "amount": 729.29,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-08-09",
+    "category": "Entertainment",
+    "amount": 697.39,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-01-06",
+    "category": "Groceries",
+    "amount": 460.1,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-08-09",
+    "category": "Education",
+    "amount": 737.89,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-01-01",
+    "category": "Healthcare",
+    "amount": 342.29,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-10-08",
+    "category": "Education",
+    "amount": 909.3,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-02-05",
+    "category": "Healthcare",
+    "amount": 17.43,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-03-24",
+    "category": "Misc.",
+    "amount": 278.88,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-12-24",
+    "category": "Misc.",
+    "amount": 456.83,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-10-25",
+    "category": "Healthcare",
+    "amount": 515.29,
+    "note": "Subscription"
+  },
+  {
+    "date": "2024-09-04",
+    "category": "Dining",
+    "amount": 380.02,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-03-25",
+    "category": "Utilities",
+    "amount": 320.43,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-06-26",
+    "category": "Dining",
+    "amount": 369.66,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-10-10",
+    "category": "Clothing",
+    "amount": 394.49,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-01-07",
+    "category": "Groceries",
+    "amount": 729.96,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-05-08",
+    "category": "Utilities",
+    "amount": 11.03,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2023-07-02",
+    "category": "Clothing",
+    "amount": 799.61,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-03-27",
+    "category": "Utilities",
+    "amount": 442.93,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-03-09",
+    "category": "Healthcare",
+    "amount": 65.73,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2023-10-27",
+    "category": "Transportation",
+    "amount": 308.92,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-12-03",
+    "category": "Healthcare",
+    "amount": 894.46,
+    "note": "Misc."
+  },
+  {
+    "date": "2023-01-10",
+    "category": "Clothing",
+    "amount": 461.72,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-07-06",
+    "category": "Clothing",
+    "amount": 260.26,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-07-25",
+    "category": "Clothing",
+    "amount": 91.17,
+    "note": "Misc."
+  },
+  {
+    "date": "2025-02-22",
+    "category": "Transportation",
+    "amount": 803.79,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-11-24",
+    "category": "Clothing",
+    "amount": 711.08,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-02-14",
+    "category": "Healthcare",
+    "amount": 732.91,
+    "note": "Misc."
+  },
+  {
+    "date": "2024-06-01",
+    "category": "Clothing",
+    "amount": 467.56,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2024-08-29",
+    "category": "Transportation",
+    "amount": 154.06,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-11-17",
+    "category": "Utilities",
+    "amount": 895.75,
+    "note": "Subscription"
+  },
+  {
+    "date": "2025-05-07",
+    "category": "Entertainment",
+    "amount": 415.46,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-05-04",
+    "category": "Clothing",
+    "amount": 658.0,
+    "note": "Subscription"
+  },
+  {
+    "date": "2023-09-20",
+    "category": "Transportation",
+    "amount": 742.69,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-04-17",
+    "category": "Misc.",
+    "amount": 178.65,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-02-10",
+    "category": "Transportation",
+    "amount": 586.2,
+    "note": "Monthly bill"
+  },
+  {
+    "date": "2025-01-22",
+    "category": "Healthcare",
+    "amount": 338.51,
+    "note": "Unknown"
+  },
+  {
+    "date": "2025-05-07",
+    "category": "Education",
+    "amount": 856.87,
+    "note": "Unknown"
+  },
+  {
+    "date": "2024-09-02",
+    "category": "Utilities",
+    "amount": 118.19,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2025-06-12",
+    "category": "Entertainment",
+    "amount": 781.15,
+    "note": "Client expense"
+  },
+  {
+    "date": "2023-04-22",
+    "category": "Dining",
+    "amount": 149.8,
+    "note": "Routine expense"
+  },
+  {
+    "date": "2024-11-02",
+    "category": "Clothing",
+    "amount": 570.67,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2025-03-01",
+    "category": "Transportation",
+    "amount": 376.8,
+    "note": "Personal expense"
+  },
+  {
+    "date": "2024-09-18",
+    "category": "Utilities",
+    "amount": 258.03,
+    "note": "Monthly bill"
+  }
+]
