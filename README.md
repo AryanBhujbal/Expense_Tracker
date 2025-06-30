@@ -31,7 +31,7 @@
 
    ```bash
    git clone https://github.com/AryanBhujbal/Expense_Tracker.git
-   cd expense-tracker
+   cd tracker
    ```
 
 2. **Install dependencies**
@@ -162,7 +162,3 @@ pytest -v
 ```
 
 * **Covers**: `ExpenseManager` methods (`total`, `by_category`, `trend`, `extremes`)
-* **Fixtures**: `sample_expenses`, `empty_expenses`
-
----
-
